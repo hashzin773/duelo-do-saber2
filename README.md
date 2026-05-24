@@ -13,7 +13,7 @@
 | **Engine** | Unity 6 (6000.3.9f1) |
 | **Linguagem** | C# |
 | **Tipo** | Jogo 2D educativo |
-| **Plataforma** | Windows / Mac / Linux |
+| **Plataforma** | Windows |
 | **Proposta** | Reforço escolar para ONG |
 
 ---
